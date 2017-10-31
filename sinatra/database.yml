@@ -1,0 +1,7 @@
+development:
+  adapter: mysql2
+  database: world
+  host: localhost
+  username: root
+  password: S=v7p2SkVjt4]eW,
+  encoding: utf8
